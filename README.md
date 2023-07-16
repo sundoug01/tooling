@@ -49,7 +49,7 @@ git commit -m "Put some message about this push here"
 ```
 git push --set-upstream origin feature/[Your branch name]
 ```
-
+Test 
 ### Validate your changes have been triggered by gitlab-ci in
 [propitix-scm] (https://gitlab.com/propitix/microservices/frontend-propitix)
 
